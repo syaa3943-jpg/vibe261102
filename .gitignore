@@ -42,3 +42,5 @@ next-env.d.ts
 
 # board data (JSON file store)
 /data/
+.vercel
+.env*
